@@ -19,7 +19,7 @@ def test_api_content():
 
 BASE_URL = "https://jsonplaceholder.typicode.com"
 
-def test_create_and_get_post():
+def test_create_and_get_post(): 
     # 1. Создаём пост (POST-запрос)
     post_data = {
         "title": "Test Title",

@@ -1,0 +1,4 @@
+```txt
+pytest
+requests
+pytest-html
